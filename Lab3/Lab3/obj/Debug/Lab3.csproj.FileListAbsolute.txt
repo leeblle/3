@@ -1,0 +1,42 @@
+D:\Google Disk\5 Семестр\ТМП\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\Google Disk\5 Семестр\ТМП\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\Google Disk\5 Семестр\ТМП\Lab3\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\Google Disk\5 Семестр\ТМП\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.ResolveComReference.cache
+D:\Google Disk\5 Семестр\ТМП\Lab3\Lab3\Lab3\obj\Debug\MainWindow.baml
+D:\Google Disk\5 Семестр\ТМП\Lab3\Lab3\Lab3\obj\Debug\MainWindow.g.cs
+D:\Google Disk\5 Семестр\ТМП\Lab3\Lab3\Lab3\obj\Debug\App.g.cs
+D:\Google Disk\5 Семестр\ТМП\Lab3\Lab3\Lab3\obj\Debug\Lab3_MarkupCompile.cache
+D:\Google Disk\5 Семестр\ТМП\Lab3\Lab3\Lab3\obj\Debug\Lab3.g.resources
+D:\Google Disk\5 Семестр\ТМП\Lab3\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+D:\Google Disk\5 Семестр\ТМП\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+D:\Google Disk\5 Семестр\ТМП\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\Google Disk\5 Семестр\ТМП\Lab3\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\Google Disk\5 Семестр\ТМП\Lab3\Lab3\Lab3\obj\Debug\Lab3.pdb
+D:\Google Disk\5 Семестр\ТМП\Lab3\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+D:\5_sem\TMP\3\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\5_sem\TMP\3\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\5_sem\TMP\3\Lab3\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\5_sem\TMP\3\Lab3\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+D:\5_sem\TMP\3\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.ResolveComReference.cache
+D:\5_sem\TMP\3\Lab3\Lab3\Lab3\obj\Debug\MainWindow.baml
+D:\5_sem\TMP\3\Lab3\Lab3\Lab3\obj\Debug\MainWindow.g.cs
+D:\5_sem\TMP\3\Lab3\Lab3\Lab3\obj\Debug\App.g.cs
+D:\5_sem\TMP\3\Lab3\Lab3\Lab3\obj\Debug\Lab3_MarkupCompile.cache
+D:\5_sem\TMP\3\Lab3\Lab3\Lab3\obj\Debug\Lab3.g.resources
+D:\5_sem\TMP\3\Lab3\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+D:\5_sem\TMP\3\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+D:\5_sem\TMP\3\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\5_sem\TMP\3\Lab3\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\5_sem\TMP\3\Lab3\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Елена\Desktop\3\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\Елена\Desktop\3\Lab3\Lab3\obj\Debug\Lab3.csproj.ResolveComReference.cache
+C:\Users\Елена\Desktop\3\Lab3\Lab3\obj\Debug\MainWindow.baml
+C:\Users\Елена\Desktop\3\Lab3\Lab3\obj\Debug\MainWindow.g.cs
+C:\Users\Елена\Desktop\3\Lab3\Lab3\obj\Debug\App.g.cs
+C:\Users\Елена\Desktop\3\Lab3\Lab3\obj\Debug\Lab3_MarkupCompile.cache
+C:\Users\Елена\Desktop\3\Lab3\Lab3\obj\Debug\Lab3.g.resources
+C:\Users\Елена\Desktop\3\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\Елена\Desktop\3\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\Елена\Desktop\3\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\3\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\Елена\Desktop\3\Lab3\Lab3\obj\Debug\Lab3.pdb
